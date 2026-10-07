@@ -1,0 +1,1 @@
+{"modules": [{"module": "WhatTeslaSaw.Laws", "path": "WhatTeslaSaw/Laws.lean"}, {"module": "WhatTeslaSaw.Numbers", "path": "WhatTeslaSaw/Numbers.lean"}, {"module": "WhatTeslaSaw.Jets", "path": "WhatTeslaSaw/Jets.lean"}, {"module": "TeslaCore_v3", "path": "TeslaCore_v3.lean"}], "expected_theorems": 76, "expected_false_controls": 3, "root_imports": ["WhatTeslaSaw", "TeslaCore_v3"]}

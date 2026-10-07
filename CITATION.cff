@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use these Lean proofs, please cite them as below."
+title: "What Tesla Saw: Lean proofs"
+authors:
+  - family-names: "Beasley"
+    given-names: "Jeromie"
+version: 1.0.0
+date-released: 2026-10-07
+license:
+  - MIT
+  - CC-BY-4.0
+repository-code: "https://github.com/dicipler-pixel/what-tesla-saw-lean"
+keywords:
+  - Lean 4
+  - Mathlib
+  - formal verification
+  - Nikola Tesla
+  - resonant circuits
+  - history of physics
+references:
+  - type: article
+    title: "What Tesla Saw: His laws, his numbers, and what they fix"
+    authors:
+      - family-names: "Beasley"
+        given-names: "Jeromie"
+    year: 2026
